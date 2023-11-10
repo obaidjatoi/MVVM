@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM sample</string>
+    <string name="ok">OK</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="no_data">No corresponding data found</string>
+    <string name="tags">Tags: %s</string>
+    <string name="user_name">User name: %s</string>
+</resources>
